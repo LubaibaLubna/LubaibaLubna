@@ -1,3 +1,4 @@
+![logo](https://github.com/LubaibaLubna/LubaibaLubna/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Lubna Begum</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
