@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lubna Begum</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 
 
