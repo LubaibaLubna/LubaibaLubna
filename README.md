@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Lubna Begum</h1>
 
-![logo](https://github.com/LubaibaLubna/LubaibaLubna/blob/main/Banner.png)
+![logo](https://github.com/LubaibaLubna/LubaibaLubna/blob/main/github-banner.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubaibalubna&label=Profile%20views&color=0e75b6&style=flat" alt="lubaibalubna" /> </p>
