@@ -1,14 +1,16 @@
+<h1>Hi 👋, I'm Lubna Begum</h1>
+
 ![logo](https://github.com/LubaibaLubna/LubaibaLubna/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Lubna Begum</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubaibalubna&label=Profile%20views&color=0e75b6&style=flat" alt="lubaibalubna" /> </p>
 
 - 💬 Ask me about **Web Development**
+
+<h1>About Me</h1>
+I am a dedicated Frontend Developer with experience in designing and building responsive, user-friendly web applications. My technical expertise includes HTML, CSS, JavaScript, and React, with additional knowledge of Node.js, Express, and MongoDB for backend development.
+I am passionate about clean code, modern design principles, and continuous learning. My goal is to create reliable, maintainable, and visually appealing digital products that provide real value to users.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
